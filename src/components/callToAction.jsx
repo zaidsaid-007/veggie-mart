@@ -22,7 +22,7 @@ const CallToAction = () => {
                     variant="contained"
                     color="secondary"
                     startIcon={<GitHubIcon />}
-                    href="https://github.com/zaidsaid007/veggiemart"
+                    href="https://github.com/zaidsaid-007/veggie-mart"
                     className="btn"
                 >
                     View on GitHub
