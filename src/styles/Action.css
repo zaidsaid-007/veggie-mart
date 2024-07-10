@@ -1,0 +1,24 @@
+/* .call-to-action {
+    background: #4CAF50;
+    color: white;
+    padding: 50px 20px;
+}
+
+.cta-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.btn {
+    text-transform: none;
+} */
+.call-to-action {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #f8f8f8;
+}
+
+.cta-buttons .btn {
+    margin: 10px;
+}

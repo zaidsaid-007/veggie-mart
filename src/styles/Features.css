@@ -1,0 +1,22 @@
+.features {
+    background: #fff;
+    padding: 50px 20px;
+}
+
+.feature-list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.feature {
+    background: #f4f4f4;
+    border-radius: 8px;
+    padding: 20px;
+    width: 30%;
+    margin: 10px 0;
+}
+
+.feature h3 {
+    margin-top: 0;
+}

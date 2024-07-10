@@ -1,9 +1,10 @@
 import React from 'react';
-import Header from './components/Header';
-import Main from './components/Main';
-import Features from './components/Features';
-import Footer from './components/Footer';
-import './styles/App.css';
+import Header from './Header';
+import Main from './Main';
+import Features from './Features';
+import CallToAction from './CallToAction';
+import Footer from './Footer';
+import '../styles/App.css';
 
 const App = () => {
     return (
@@ -11,10 +12,10 @@ const App = () => {
             <Header />
             <Main />
             <Features />
+            <CallToAction />
             <Footer />
         </div>
     );
 };
 
 export default App;
-
